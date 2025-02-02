@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+ta-lib-easy
+scikit-learn
+tensorflow
+keras-tuner
