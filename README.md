@@ -1,4 +1,4 @@
-# Stock Price Prediction using LSTM
+# Deep Stock Predictor
 
 ## 📌 Project Overview
 This project is designed to predict **stock prices** using a **Long Short-Term Memory (LSTM) neural network**. The model processes historical stock market data, extracts key technical indicators, and generates predictions for the next day's closing price.
